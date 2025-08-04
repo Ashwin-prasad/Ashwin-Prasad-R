@@ -1,4 +1,4 @@
-![Header](https://user-images.githubusercontent.com/99672298/186088252-ef41cefc-cda7-49e8-960d-efbd59d3696c.jpg)
+![Header]("C:\Users\ASHWIN PRASAD R\OneDrive\Desktop\Background.jpeg")
 
 <h1 align="center">Hi 👋, I'm Ashwin Prasad R</h1>
 <h3 align="center">🚀 Data Analyst | Excel, SQL, Power BI | Python Enthusiast | Insight-Driven Decision Maker</h3>
