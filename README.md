@@ -1,4 +1,4 @@
-![Header](https://ibb.co/TG3bqvL)
+![Header](Background.jpeg)
 
 <h1 align="center">Hi 👋, I'm Ashwin Prasad R</h1>
 <h3 align="center">🚀 Data Analyst | Excel, SQL, Power BI | Python Enthusiast | Insight-Driven Decision Maker</h3>
